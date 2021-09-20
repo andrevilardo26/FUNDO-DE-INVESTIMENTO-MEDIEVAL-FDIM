@@ -1,1 +1,1 @@
-<?php redirect("game.html"); ?>
+<?php redirect("FDIM/game.html"); ?>
