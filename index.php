@@ -1,1 +1,2 @@
-<?php redirect("FDIM/game.html"); ?>
+header("FDIM/game.html");
+die();
